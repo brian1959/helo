@@ -1,0 +1,24 @@
+.nav-bar {
+  width: 100vw;
+  height: 100vh;
+  background: rebeccapurple;
+}
+
+.nav-bar-holder {
+  width: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  background: palegreen;
+  border-radius: 3%;
+  border-style: outset;
+}
+.nav-b {
+  height: 10%;
+}
+
+.nav-item {
+  height: 10%;
+  margin-top: 10px;
+}

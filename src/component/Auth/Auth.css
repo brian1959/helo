@@ -1,0 +1,29 @@
+.auth-container {
+  border-radius: 6%;
+  border-style: outset;
+  margin: auto;
+  height: 400px;
+  width: 400px;
+}
+.input-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth-title {
+  margin-top: 50px;
+  font-size: 50px;
+  color: chocolate;
+}
+.auth-input {
+  color: #333;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.auth-btn {
+  margin: 10px;
+}
